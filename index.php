@@ -163,7 +163,7 @@
                <div class="col-md-12"><!-- col-md-12 Begin -->
                    
                    <h2>
-                       Our Latest Products
+                       Our Latsst Prnducts
                    </h2>
                    
                </div><!-- col-md-12 Finish -->
